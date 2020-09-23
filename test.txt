@@ -9,5 +9,22 @@ node js
 3. 서버실행
  : node #파일명#.js
  
+4. https://www.eclipse.org/
+ : 이클립스 다운로드 - Eclipse IDE for JavaScript and Web Developers(4.8 Photon)
 
+5. 이클립스 node js 플러그인 설치
+ : 이클립스 설정 확인(node js path URL)
+
+6. node.js 프로젝트 생성
+
+7. npm 모듈 설치
+ 1) npm install express --save
+ 2) npm install request --save
+ 3) npm install body-parser --save
+ 4) npm install mysql --save
+ 5) npm install ejs --save
+ - 모듈 삭제 npm uninstall #모듈이름#
+
+
+ 
 
